@@ -38,7 +38,6 @@ As a professional in the realm of data analytics, I bring a profound passion for
   </a>
   <strong>AZ-104</strong> - Microsoft Certified: Azure Administrator Associate
 </p>
-<br />
 
 ---
 
