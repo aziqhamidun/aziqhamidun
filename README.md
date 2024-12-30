@@ -8,8 +8,6 @@ As a professional in the realm of data analytics, I bring a profound passion for
 
 ### 📚 Certifications
 
-### 📚 Certifications
-
 <p>
   <a href="https://learn.microsoft.com/en-us/users/aziqhamidun/credentials/3e7dd7fb0eb7e0c1?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
     <img align="left" alt="AZ-305" width="30px" style="padding-right:10px; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -44,10 +42,11 @@ As a professional in the realm of data analytics, I bring a profound passion for
 
 <p>
   <a href="https://www.credly.com/badges/96952e43-a364-4910-af26-ac4d898643f6/public_url" target="_blank">
-    <img align="left" alt="Tableau" width="30px" style="padding-right:10px; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
+    <img align="left" alt="Tableau Certified Consultant" width="30px" style="padding-right:10px; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
   </a>
   <strong>Tableau Certified Consultant</strong>
 </p>
+<br />
 
 ---
 
