@@ -2,7 +2,33 @@
 
 **`Microsoft Azure Data Engineer & Solution Architect`**
 
-As a professional in the realm of data analytics, I bring a profound passion for uncovering meaningful insights and driving impactful outcomes through the entire data analytics lifecycle. With a keen eye for detail and a strategic mindset, I specialize in crafting comprehensive solutions that span the end-to-end spectrum of data analytics. My plan is to share my end-to-end data analytics projects on my YouTube channel 📺
+As a professional in the realm of data analytics, I bring a profound passion for uncovering meaningful insights and driving impactful outcomes through the entire data analytics lifecycle. With a keen eye for detail and a strategic mindset, I specialize in crafting comprehensive solutions that span the end-to-end spectrum of data analytics.
+
+---
+
+### 📚 Certifications
+
+<a href="https://learn.microsoft.com/en-us/users/aziqhamidun/credentials/3e7dd7fb0eb7e0c1?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+<img align="left" alt="AZ-305" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</a> AZ-305 - Microsoft Certified: Azure Solution Architect Expert  
+
+<a href="https://learn.microsoft.com/en-us/users/aziqhamidun/credentials/7dec6fa4e6924faa?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+<img align="left" alt="DP-203" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</a> DP-203 - Microsoft Certified: Azure Data Engineer Associate  
+
+<a href="https://learn.microsoft.com/en-us/users/aziqhamidun/credentials/7ca830057ab111ba?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+<img align="left" alt="AZ-500" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</a> AZ-500 - Microsoft Certified: Azure Security Engineer Associate  
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/aziqhamidun/7F7ABF213199FE8C?sharingId" target="_blank">
+<img align="left" alt="AZ-104" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</a> AZ-104 - Microsoft Certified: Azure Administrator Associate  
+
+<a href="https://www.credly.com/badges/96952e43-a364-4910-af26-ac4d898643f6/public_url" target="_blank">
+<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
+</a> Tableau Certified Consultant  
+
+<br />
 
 ---
 
