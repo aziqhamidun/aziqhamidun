@@ -40,14 +40,6 @@ As a professional in the realm of data analytics, I bring a profound passion for
 </p>
 <br />
 
-<p>
-  <a href="https://www.credly.com/badges/96952e43-a364-4910-af26-ac4d898643f6/public_url" target="_blank">
-    <img align="left" alt="Tableau Certified Consultant" width="30px" style="padding-right:10px; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
-  </a>
-  <strong>Tableau Certified Consultant</strong>
-</p>
-<br />
-
 ---
 
 ### 🧰 Languages and Tools
